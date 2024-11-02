@@ -1,2 +1,2 @@
 # eth_dataset
-Ethereum Dataset for Springer Article
+Ethereum Dataset for Article
